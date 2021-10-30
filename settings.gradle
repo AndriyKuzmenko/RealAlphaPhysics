@@ -1,0 +1,2 @@
+rootProject.name='RealAlphaPhysics'
+include ':app'
